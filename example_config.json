@@ -1,0 +1,15 @@
+[
+    {
+        "Title": "Unreal Gold",
+        "Executable": "unreal"
+    },
+	{
+        "Title": "Unreal Tournament 99",
+        "Executable": "unrealtournament"
+    },
+    {
+        "Title": "Doom II",
+        "Executable": "Zandronum"
+    }
+]
+
